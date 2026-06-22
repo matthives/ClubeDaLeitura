@@ -13,6 +13,6 @@ public static class GeradorIds
 
     public static int ObterIdRevista()
     {
-        return contadorIdsRevista++
+        return contadorIdsRevista++;
     }
 }
